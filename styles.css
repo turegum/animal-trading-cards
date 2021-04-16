@@ -1,0 +1,28 @@
+/* add your CSS here */
+.interesting_fact{
+    font-style: italic;
+    margin: 15px;
+}
+
+.margin_class{
+    margin: 15px;
+}
+
+.box{
+    width: 330px;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.information{
+    border: 1px solid black;
+    margin: 15px;
+}
+
+span{
+    font-weight: bold;
+}
+
+li{
+    list-style: none;
+}
